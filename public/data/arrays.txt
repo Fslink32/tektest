@@ -1,0 +1,79 @@
+{
+    "data":[
+        [
+            "satrio rully P",
+            "Permata Biru",
+            "Laki-laki"
+        ],
+        [
+            "putra",
+            "Rancaekek",
+            "Laki-laki"
+        ],
+        [
+            "aura",
+            "Rancaekek",
+            "Perempuan"
+        ],
+        [
+            "Vivi",
+            "Permata Biru",
+            "Perempuan"
+        ],
+        [
+            "Anisa",
+            "Manglayang Regency",
+            "Perempuan"
+        ],
+        [
+            "Nani Suryani",
+            "Permata Biru",
+            "Perempuan"
+        ],
+        [
+            "Antonius Abram",
+            "Buah Batu",
+            "Laki-laki"
+        ],
+        [
+            "Iman Pramono",
+            "Buah Batu",
+            "Laki-laki"
+        ],
+        [
+            "Esa Ariyanti",
+            "Buah Batu",
+            "Perempuan"
+        ],
+        [
+            "Niken",
+            "Bogor",
+            "Prempuan"
+        ],
+        [
+            "Alve",
+            "Bogor",
+            "Laki-laki"
+        ],
+        [
+            "Indah Tri",
+            "Cibubur",
+            "Perempuan"
+        ],
+        [
+            "Sabila",
+            "Rancaekek",
+            "Perempuan"
+        ],
+        [
+            "Saepul",
+            "Bandung",
+            "Laki-laki"
+        ],
+        [
+            "Nabilla",
+            "Riung Bandung",
+            "Perempuan"
+        ]
+    ]
+}
